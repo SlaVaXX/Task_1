@@ -1,0 +1,15 @@
+D:\Stud\Prak\Prak\bin\Debug\net7.0\Prak.exe
+D:\Stud\Prak\Prak\bin\Debug\net7.0\Prak.deps.json
+D:\Stud\Prak\Prak\bin\Debug\net7.0\Prak.runtimeconfig.json
+D:\Stud\Prak\Prak\bin\Debug\net7.0\Prak.dll
+D:\Stud\Prak\Prak\bin\Debug\net7.0\Prak.pdb
+D:\Stud\Prak\Prak\obj\Debug\net7.0\Prak.csproj.AssemblyReference.cache
+D:\Stud\Prak\Prak\obj\Debug\net7.0\Prak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stud\Prak\Prak\obj\Debug\net7.0\Prak.AssemblyInfoInputs.cache
+D:\Stud\Prak\Prak\obj\Debug\net7.0\Prak.AssemblyInfo.cs
+D:\Stud\Prak\Prak\obj\Debug\net7.0\Prak.csproj.CoreCompileInputs.cache
+D:\Stud\Prak\Prak\obj\Debug\net7.0\Prak.dll
+D:\Stud\Prak\Prak\obj\Debug\net7.0\refint\Prak.dll
+D:\Stud\Prak\Prak\obj\Debug\net7.0\Prak.pdb
+D:\Stud\Prak\Prak\obj\Debug\net7.0\Prak.genruntimeconfig.cache
+D:\Stud\Prak\Prak\obj\Debug\net7.0\ref\Prak.dll
